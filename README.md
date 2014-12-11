@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Frst repo
+Learing Github
